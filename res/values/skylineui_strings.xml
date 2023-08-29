@@ -71,6 +71,10 @@
     <string name="game_space_title">Game Space</string>
     <string name="game_space_summary">Enhance your gaming experience</string>
 
+    <!-- Smooth Display -->
+    <string name="smooth_display_intro">Automatically raises the refresh rate from 60 Hz to the selected high refresh rate, for some content. Increases battery usage.</string>
+    <string name="smooth_display_switch">Use Smooth Display</string>
+
     <!-- Three-fingers-swipe to screenshot -->
     <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
     <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
